@@ -6,3 +6,5 @@ networkx
 tqdm
 pytest
 seaborn
+torch
+pyarrow
